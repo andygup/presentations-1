@@ -80,7 +80,7 @@ Yann Cabon - Andy Gup
  - display graphics while zooming.
  - rotation
  - continous zoom
- - [vector map tiles](http://blogs.esri.com/esri/arcgis/2015/07/20/vector-tiles-preview/), [basemaps](http://basemapsbeta.arcgis.com/preview/app/index.html)
+ - [vector map tiles](http://coolmaps.esri.com/VectorTiles/), [basemaps](http://basemapsbeta.arcgis.com/preview/app/index.html)
 
 ---
 
